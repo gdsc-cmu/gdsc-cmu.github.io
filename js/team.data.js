@@ -6,10 +6,9 @@
 let leadMemberDetails = [
   {
     id: 1,
-    name: "Niloy Sikdar",
-    avatar: "../assets/img/team/avatar_b.png",
+    name: "Anusheh Mustafeez",
+    avatar: "../assets/img/team/anusheh_mustafeez.webp",
     badges: `
-                    <span class="red">GDSC</span>
                     <span class="green">Lead</span>
                 `,
     cardBorderColor: "red",
@@ -24,12 +23,11 @@ let leadMemberDetails = [
 let coreMemberDetails = [
   {
     id: 1,
-    name: "Anubhab Sarkar",
-    avatar: "../assets/img/team/avatar_b.png",
+    name: "Divya Raj",
+    avatar: "../assets/img/team/divya_raj.webp",
     badges: `
-                    <span class="yellow">Content</span>
-                    <span class="blue">Graphics</span>
-                    <span class="red">Lead</span>
+                    <span class="blue">Tech</span>
+                    <span class="green">Lead</span>
                 `,
     cardBorderColor: "yellow",
 
@@ -39,10 +37,10 @@ let coreMemberDetails = [
   },
   {
     id: 2,
-    name: "V Nikhita",
-    avatar: "../assets/img/team/avatar_g.png",
+    name: "Raga C.",
+    avatar: "../assets/img/team/ragashree_mysuru_chandrashekar_cCAAX4z.webp",
     badges: `
-                    <span class="blue">Management</span>
+                    <span class="red">Organizing</span>
                     <span class="green">Lead</span>
                 `,
     cardBorderColor: "blue",
@@ -53,12 +51,10 @@ let coreMemberDetails = [
   },
   {
     id: 3,
-    name: "Namrata Das",
-    avatar: "../assets/img/team/avatar_g.png",
+    name: "Shruti Nayar",
+    avatar: "../assets/img/team/shruti_nair.webp",
     badges: `
-                    <span class="yellow">DSA</span>
-                    <span class="blue">Management</span>
-                    <span class="red">Content</span>
+                    <span class="yellow">Finance</span>
                     <span class="green">Lead</span>
                 `,
     cardBorderColor: "red",
@@ -69,13 +65,11 @@ let coreMemberDetails = [
   },
   {
     id: 4,
-    name: "Sagnik Roy",
-    avatar: "../assets/img/team/avatar_b.png",
+    name: "Amy Jung",
+    avatar: "../assets/img/team/amy.jpeg",
     badges: `
-                    <span class="green">AI</span>
-                    <span class="blue">ML</span>
-                    <span class="red">DSA</span>
-                    <span class="yellow">Lead</span>
+                    <span class="red">Partnerships</span>
+                    <span class="green">Lead</span>
                 `,
     cardBorderColor: "blue",
 
@@ -85,10 +79,10 @@ let coreMemberDetails = [
   },
   {
     id: 5,
-    name: "Tarpan Bhattacharya",
-    avatar: "../assets/img/team/avatar_b.png",
+    name: "Anya Bindra",
+    avatar: "../assets/img/team/anya_bindra.jpeg",
     badges: `
-                    <span class="red">Android</span>
+                    <span class="red">Marketing</span>
                     <span class="green">Lead</span>
                 `,
     cardBorderColor: "red",
@@ -99,42 +93,10 @@ let coreMemberDetails = [
   },
   {
     id: 6,
-    name: "Soham Chowdhury",
-    avatar: "../assets/img/team/avatar_b.png",
+    name: "Harsha Nikhar",
+    avatar: "../assets/img/team/harsha_nikhar.webp",
     badges: `
-                    <span class="yellow">DSA</span>
-                    <span class="red">Lead</span>
-                `,
-    cardBorderColor: "green",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 7,
-    name: "Sahil Saha",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="blue">Web</span>
-                    <span class="red">Flutter</span>
-                    <span class="yellow">Lead</span>
-                `,
-    cardBorderColor: "yellow",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 8,
-    name: "Utpalendu Barman",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="green">Web</span>
-                    <span class="yellow">Android</span>
-                    <span class="red">ML</span>
-                    <span class="blue">Lead</span>
+                    <span class="red">Marketing</span>
                 `,
     cardBorderColor: "green",
 
@@ -145,227 +107,7 @@ let coreMemberDetails = [
 ];
 
 // Ex Core Members Details
-let excoreMemberDetails = [
-  {
-    id: 1,
-    name: "Anirban Debnath",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="green">Native Android</span>
-                    <span class="yellow">Team</span>
-                `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 2,
-    name: "Padmanabha Banerjee",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="yellow">AI</span>
-                    <span class="green">ML</span>
-                    <span class="red">Team</span>
-                `,
-    cardBorderColor: "red",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 3,
-    name: "Niladri Mondal",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="blue">Web</span>
-                    <span class="red">Flutter</span>
-                    <span class="green">Team</span>
-                `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 4,
-    name: "Tunnisha Das Gupta",
-    avatar: "../assets/img/team/avatar_g.png",
-    badges: `
-                    <span class="yellow">Content</span>
-                    <span class="red">Graphics</span>
-                    <span class="blue">Team</span>
-                `,
-    cardBorderColor: "green",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 5,
-    name: "Nisha Yadav",
-    avatar: "../assets/img/team/avatar_g.png",
-    badges: `
-                    <span class="green">Content</span>
-                    <span class="blue">Graphics</span>
-                    <span class="yellow">Team</span>
-                `,
-    cardBorderColor: "yellow",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 6,
-    name: "Soham Sen",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="green">Content</span>
-                    <span class="red">Graphics</span>
-                    <span class="green">Team</span>
-                `,
-    cardBorderColor: "green",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 7,
-    name: "Shreya Paul",
-    avatar: "../assets/img/team/avatar_g.png",
-    badges: `
-                    <span class="green">Management</span>
-                    <span class="blue">Team</span>
-                `,
-    cardBorderColor: "yellow",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 8,
-    name: "Debapriya Chandra",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="red">DSA</span>
-                    <span class="yellow">Team</span>
-                `,
-    cardBorderColor: "red",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 9,
-    name: "Vedant Ramaiah",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="yellow">Management</span>
-                    <span class="red">Team</span>
-                `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 10,
-    name: "Mahmood Ahmed",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="blue">Native Android</span>
-                    <span class="green">Team</span>
-                `,
-    cardBorderColor: "red",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 11,
-    name: "Aman Prakash Jha",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="red">Web</span>
-                    <span class="yellow">Flutter</span>
-                    <span class="blue">Team</span>
-                `,
-    cardBorderColor: "green",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 12,
-    name: "Ayush Choudhury",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="yellow">Web</span>
-                    <span class="red">Flutter</span>
-                    <span class="green">Team</span>
-                `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 13,
-    name: "Shibam Naskar",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="blue">Web</span>
-                    <span class="yellow">Flutter</span>
-                    <span class="red">Team</span>
-                `,
-    cardBorderColor: "yellow",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 14,
-    name: "Syed Ziauddin",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="green">Web</span>
-                    <span class="red">Graphics</span>
-                    <span class="blue">Team</span>
-                `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-  {
-    id: 15,
-    name: "Sagnik Mitra",
-    avatar: "../assets/img/team/avatar_b.png",
-    badges: `
-                    <span class="green">DSA</span>
-                    <span class="yellow">Team</span>
-                `,
-    cardBorderColor: "red",
-
-    socialGithubLink: "#",
-    socialLinkedinLink: "#",
-    socialTwitterLink: "#",
-  },
-];
+let excoreMemberDetails = [];
 
 /* ********************************************************** */
 // Members Preview Mapping
