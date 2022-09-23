@@ -1,19 +1,17 @@
 <div align="center">
-  <a href="https://hacktoberfest.digitalocean.com/">
     <img 
       src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" 
       alt="Banner" 
       width="60%"/>
-  </a>
 </div>
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gdscjgec">
+  <a href="https://github.com/gdsc-cmu">
     <img src="./assets/logo.svg" alt="Logo" width="400" height="250">
   </a>
-  <h1 align="center">GDSC JGEC Website</h1>
+  <h1 align="center">GDSC CMU Website</h1>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -39,7 +37,7 @@
 
 ## About The Project
 
-This is the first time we have GDSC in JGEC. Hence we will be building our official website to showcase all that awesome stuff that GDSC will be doing in future.
+This is the first time we have GDSC in CMU. Hence we will be building our official website to showcase all that awesome stuff that GDSC will be doing in future.
 This is a beginner friendly project and we hope to build an amazing website from scratch.
 
 ## Built With
@@ -87,12 +85,12 @@ The tech stack we will be using:
 
 Below are the steps to follow to contribute to this project:
 
-**1.** Fork [this](https://github.com/gdscjgec/gdscjgec.github.io) repository.
+**1.** Fork [this](https://github.com/gdscCMU/gdscCMU.github.io) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/gdscjgec.github.io.git
+git clone https://github.com/<your_user_name>/gdscCMU.github.io.git
 ```
 
 where `your_user_name` is your GitHub username.
@@ -100,13 +98,13 @@ where `your_user_name` is your GitHub username.
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd gdscjgec.github.io
+cd gdscCMU.github.io
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/gdscjgec/gdscjgec.github.io.git
+git remote add upstream https://github.com/gdscCMU/gdscCMU.github.io.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -159,7 +157,7 @@ git push -u origin <your_branch_name>
 
 ## Roadmap
 
-See the [open issues](https://github.com/gdscjgec) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gdscCMU) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 
@@ -171,4 +169,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Mail us at - gdsc@jgec.ac.in
+Mail us at - gdsc@CMU.ac.in

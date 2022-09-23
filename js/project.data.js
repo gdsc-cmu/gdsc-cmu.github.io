@@ -5,12 +5,12 @@
 let projectDetails = [
   {
     id: 1,
-    name: "GDSC JGEC Website",
-    repo: "gdscjgec/gdscjgec",
-    desc: "Official Website for GDSC JGEC, and which is open source 🤩.",
+    name: "GDSC CMU Website",
+    repo: "gdscCMU/gdscCMU",
+    desc: "Official Website for GDSC CMU, and which is open source 🤩.",
 
-    viewLink: "https://gdscjgec.github.io/",
-    repoLink: "https://github.com/gdscjgec/gdscjgec.github.io",
+    viewLink: "https://gdscCMU.github.io/",
+    repoLink: "https://github.com/gdscCMU/gdscCMU.github.io",
 
     viewtarget: "_blank",
     repotarget: "_blank",
@@ -18,11 +18,11 @@ let projectDetails = [
   {
     id: 2,
     name: "Image Editor",
-    repo: "gdscjgec/Image-Editor",
+    repo: "gdscCMU/Image-Editor",
     desc: "Open Source Web based Image Editor.",
 
-    viewLink: "https://gdscjgec.github.io/Image-Editor",
-    repoLink: "https://github.com/gdscjgec/Image-Editor",
+    viewLink: "https://gdscCMU.github.io/Image-Editor",
+    repoLink: "https://github.com/gdscCMU/Image-Editor",
 
     viewtarget: "_blank",
     repotarget: "_blank",
@@ -30,12 +30,12 @@ let projectDetails = [
   {
     id: 3,
     name: "ML Gallery",
-    repo: "gdscjgec/ML-Gallery",
+    repo: "gdscCMU/ML-Gallery",
     desc:
       "A Special Open-Source Repository for all kinds of Data Science and Machine Learning Projects! Contribute your EDA Case Studies, ML Models, Deep Learning Algo, and fun Computer Vision ideas!",
 
     viewLink: "javascript:void(0)",
-    repoLink: "https://github.com/gdscjgec/ML-Gallery",
+    repoLink: "https://github.com/gdscCMU/ML-Gallery",
 
     viewtarget: "_self",
     repotarget: "_blank",
@@ -43,11 +43,11 @@ let projectDetails = [
   {
     id: 4,
     name: "Pictionary",
-    repo: "gdscjgec/Pictionary",
+    repo: "gdscCMU/Pictionary",
     desc: "Ever heard about a Picture based Dictionary? , it's here!",
 
-    viewLink: "https://gdscjgec.github.io/Pictionary",
-    repoLink: "https://github.com/gdscjgec/Pictionary",
+    viewLink: "https://gdscCMU.github.io/Pictionary",
+    repoLink: "https://github.com/gdscCMU/Pictionary",
 
     viewtarget: "_blank",
     repotarget: "_blank",
@@ -55,11 +55,11 @@ let projectDetails = [
   {
     id: 5,
     name: "UpTrend",
-    repo: "gdscjgec/UpTrend",
+    repo: "gdscCMU/UpTrend",
     desc: "One place destination to check trending data across websites.",
 
     viewLink: "javascript:void(0)",
-    repoLink: "https://github.com/gdscjgec/UpTrend",
+    repoLink: "https://github.com/gdscCMU/UpTrend",
 
     viewtarget: "_self",
     repotarget: "_blank",
@@ -67,11 +67,11 @@ let projectDetails = [
   {
     id: 6,
     name: "GuruCool",
-    repo: "gdscjgec/GuruCool",
+    repo: "gdscCMU/GuruCool",
     desc: "Productivity Solution for Educators and Students.",
 
     viewLink: "javascript:void(0)",
-    repoLink: "https://github.com/gdscjgec/GuruCool",
+    repoLink: "https://github.com/gdscCMU/GuruCool",
 
     viewtarget: "_self",
     repotarget: "_blank",
@@ -79,11 +79,11 @@ let projectDetails = [
   {
     id: 7,
     name: "Rhythm-Finder",
-    repo: "gdscjgec/Rhythm-Finder",
+    repo: "gdscCMU/Rhythm-Finder",
     desc: "ML-powered Music Recommendation Engine.",
 
     viewLink: "javascript:void(0)",
-    repoLink: "https://github.com/gdscjgec/Rhythm-Finder",
+    repoLink: "https://github.com/gdscCMU/Rhythm-Finder",
 
     viewtarget: "_self",
     repotarget: "_blank",
