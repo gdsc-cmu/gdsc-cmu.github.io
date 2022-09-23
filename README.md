@@ -162,4 +162,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Mail us at - gdsc-cmu@andrew.cmu.edu
+Mail us at - gdsc.cmu@gmail.com
