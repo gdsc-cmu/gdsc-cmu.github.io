@@ -78,12 +78,12 @@ The tech stack we will be using:
 
 Below are the steps to follow to contribute to this project:
 
-**1.** Fork [this](https://github.com/gdscCMU/gdscCMU.github.io) repository.
+**1.** Fork [this](https://github.com/gdsc-cmu/gdsc-cmu.github.io) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/gdscCMU.github.io.git
+git clone https://github.com/<your_user_name>/gdsc-cmu.github.io.git
 ```
 
 where `your_user_name` is your GitHub username.
@@ -91,13 +91,13 @@ where `your_user_name` is your GitHub username.
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd gdscCMU.github.io
+cd gdsc-cmu.github.io
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/gdscCMU/gdscCMU.github.io.git
+git remote add upstream https://github.com/gdsc-cmu/gdsc-cmu.github.io.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -150,7 +150,7 @@ git push -u origin <your_branch_name>
 
 ## Roadmap
 
-See the [open issues](https://github.com/gdscCMU) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gdsc-cmu) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 
